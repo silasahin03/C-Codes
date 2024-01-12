@@ -1,0 +1,38 @@
+S3*[46]19[296]126449
+485163+45*5[95]81625
+7823-[24]98-3[567]26
+178[98]65+4538245017
+[143]6785432[6543]90
+
+command:r
+0 + 3 = 3
+command:r
+Operator changed to *
+command:r
+3 * 46 = 138
+command:d
+Operator changed to +
+command:r
+138 + 4 = 142
+command:r
+142 + 5 = 147
+command:r
+Operator changed to *
+command:u
+147 * 296 = 43512
+command:r
+43512 * 1 = 43512
+command:d
+43512 * 59 = 2567208
+command:d
+Operator changed to -
+command:l
+2567208 - 8 = 2567200
+command:l
+2567200 - 9 = 2567191
+command:d
+Operator changed to +
+command:d
+2567191 + 4 = 2567195
+command:q
+Game is over. Your score is 2567195!

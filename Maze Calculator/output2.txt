@@ -1,0 +1,26 @@
+3*461929612S44956789
+485163+45*5958162545
+7823-2498-356726+679
+17898*65+45382450172
+143+678543-26543*904
+
+command:d
+0 + 9 = 9
+command:l
+9 + 5 = 14
+command:l
+Operator changed to *
+command:d
+Operator changed to -
+command:d
+14 - 4 = 10
+command:d
+10 - 3 = 7
+command:r
+Operator changed to -
+command:r
+7 - 2 = 5
+command:r
+5 - 6 = -1
+command:q
+Game is over. Your score is -1!
