@@ -1,0 +1,22 @@
+****************Online Shopping*****************
+1- Apple	5$
+2- Orange	7$
+3- Tomate	9$
+4- Meat   	50$
+5- Chicken	25$
+6- Milk   	2.5$
+7- Yoghurt	4.2$
+8- Egg   	1.1$
+9- Lemonate	1.9$
+10-Coke  	2.3$
+************************************************
+Please enter your choice and quantity(Enter '0' for exit, '-1' for total price): 2.00 kg Apple: 10.00$
+Please enter your choice and quantity(Enter '0' for exit, '-1' for total price): 2.00 kg Meat: 100.00$
+Please enter your choice and quantity(Enter '0' for exit, '-1' for total price): 2.00 kg Tomate: 18.00$
+Please enter your choice and quantity(Enter '0' for exit, '-1' for total price): Are you sure (y/n) : n
+Please enter your choice and quantity(Enter '0' for exit, '-1' for total price): Are you sure (y/n) : n
+Please enter your choice and quantity(Enter '0' for exit, '-1' for total price): 1.00 lt Milk: 2.50$
+Please enter your choice and quantity(Enter '0' for exit, '-1' for total price): -1
+Your total price is 130.50$. How much money you enter: 250.00$
+Total price has been paid. Your remaining money 119.50$. 
+Have a good day...
