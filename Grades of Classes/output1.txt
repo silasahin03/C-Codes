@@ -1,0 +1,4 @@
+The number of AAs: 5 
+The number of other grades: 12 
+The number of FFs: 10 
+Class A is better than Class B 
