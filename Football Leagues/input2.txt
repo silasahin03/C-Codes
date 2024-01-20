@@ -1,0 +1,18 @@
+Bayern  	32	68
+Dortmund 	32	67
+RB Leipzig  	32	60
+Union Berlin 	32	59
+Freiburg 	32	56
+Wolfsburg 	32	49
+Leverkusen 	32	49
+E. Frankfurt  	32	46
+Mainz 		32	45
+Köln 		32	41
+Gladbach 	32	39
+W. Bremen  	32	35
+Augsburg 	32	34
+Hoffenheim 	32	32
+Bochum 		32	31
+Schalke   	32	30
+Stuttgart 	32	29
+Hertha Berlin 	32	25
